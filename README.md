@@ -1,5 +1,5 @@
 # Segment Any 4D Gaussians
-### [Project Page](https://jsxzs.github.io/sa4d/) | [arxiv Paper](https://arxiv.org/abs/2407.04504)
+### [Project Page](https://jsxzs.github.io/sa4d/) | [arXiv Paper](https://arxiv.org/abs/2407.04504)
 
 [Shengxiang Ji](https://github.com/jsxzs)<sup>1*</sup>, [Guanjun Wu](https://guanjunwu.github.io/)<sup>1*</sup>
 [Jiemin Fang](https://jaminfong.cn/)<sup>2</sup>, [Jiazhong Cen](https://jumpat.github.io/SA3D/)<sup>3</sup>, [Taoran Yi](https://github.com/taoranyi)<sup>1</sup>, 
@@ -16,7 +16,7 @@ Modeling, understanding, and reconstructing the real world are crucial in XR/VR.
 
 
 ## 🦾 Updates
-- 7/07/2024: Initialize the project. Code will come soon.
+- 7/07/2024: Initialize the project. Code will available within this month.
 
 
 ## 📑 Citation
