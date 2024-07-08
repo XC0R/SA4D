@@ -1,6 +1,5 @@
 # Segment Any 4D Gaussians
-### [Project Page](https://jsxzs.github.io/sa4d/) 
-<!-- | [arxiv Paper](https://arxiv.org/abs/2406.18462) -->
+### [Project Page](https://jsxzs.github.io/sa4d/) | [arxiv Paper](https://arxiv.org/abs/2407.04504)
 
 [Shengxiang Ji](https://github.com/jsxzs)<sup>1*</sup>, [Guanjun Wu](https://guanjunwu.github.io/)<sup>1*</sup>
 [Jiemin Fang](https://jaminfong.cn/)<sup>2</sup>, [Jiazhong Cen](https://jumpat.github.io/SA3D/)<sup>3</sup>, [Taoran Yi](https://github.com/taoranyi)<sup>1</sup>, 
@@ -20,12 +19,14 @@ Modeling, understanding, and reconstructing the real world are crucial in XR/VR.
 - 7/07/2024: Initialize the project. Code will come soon.
 
 
-<!-- ## 📑 Citation
+## 📑 Citation
+
+If you find this repository/work helpful in your research, welcome to cite the paper and give a ⭐.
 
 ```
-@article{GaussianDreamerPro,
-    title={GaussianDreamerPro: Text to Manipulable 3D Gaussians with Highly Enhanced Quality},
-    author={Yi, Taoran and Fang, Jiemin and Zhou, Zanwei and Wang, Junjie and Wu, Guanjun and Xie, Lingxi and Zhang, Xiaopeng and Liu, Wenyu and Wang, Xinggang and Tian, Qi},
-    journal={arXiv:2406.18462},
-    year={2024}
-} -->
+@article{ji2024segment4dgaussians,
+    title={Segment Any 4D Gaussians}, 
+    author={Shengxiang Ji and Guanjun Wu and Jiemin Fang and Jiazhong Cen and Taoran Yi and Wenyu Liu and Qi Tian and Xinggang Wang},
+    journal={arXiv:2407.04504},
+    year={2024},
+}
