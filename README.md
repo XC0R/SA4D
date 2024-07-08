@@ -16,7 +16,7 @@ Modeling, understanding, and reconstructing the real world are crucial in XR/VR.
 
 
 ## 🦾 Updates
-- 7/07/2024: Initialize the project. Code will available within this month.
+- 7/07/2024: Initialize the project. Code will be available within this month.
 
 
 ## 📑 Citation
